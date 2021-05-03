@@ -1,4 +1,4 @@
-# CSMOJENTALe-LAB - A prototype for digital therapeutics
+# CSMOJENTALE-LAB - A prototype for digital therapeutics
 Deep learning / dialogue system / automated therapist / cbt
 
 ## Table of contents
